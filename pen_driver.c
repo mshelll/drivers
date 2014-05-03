@@ -130,5 +130,5 @@ module_init(pen_init);
 module_exit(pen_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Anil Kumar Pugalia <email_at_sarika-pugs_dot_com>");
+MODULE_AUTHOR("");
 MODULE_DESCRIPTION("USB Pen Registration Driver");
